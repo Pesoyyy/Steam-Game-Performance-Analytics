@@ -48,7 +48,7 @@ Pasar game PC di Steam mengalami pertumbuhan pesat, terutama dari publisher indi
 
 ## Reference
 
-[https://www.kaggle.com/code/emanhesham55/top-1500-games-on-steam-by-revenue-analysis](https://www.kaggle.com/code/emanhesham55/top-1500-games-on-steam-by-revenue-analysis)**(Dataset yang dipakai)**
+[https://www.kaggle.com/code/emanhesham55/top-1500-games-on-steam-by-revenue-analysis](https://www.kaggle.com/code/emanhesham55/top-1500-games-on-steam-by-revenue-analysis)
 
 ## Link Tableau
 
